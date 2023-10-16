@@ -14,6 +14,10 @@ body {
     width: 70vw;
 }
 
+h1 {
+    padding-top: 15px;
+}
+
 img {
     position: relative;
     right: 18px;
